@@ -1,0 +1,22 @@
+{
+  "employeeData": [
+    {
+      "id": 1,
+      "employeename": "sunny",
+      "designation": "software Developer",
+      "phone": "25252525255",
+      "skill": "javascript",
+      "dob": "25/25/25"
+    },
+    {
+      "employeeName": "sai",
+      "designation": "software developer",
+      "contactDetails": "",
+      "phnNo": "2552525525252",
+      "skills": "javascript",
+      "dob": "28/25/25",
+      "id": 2
+    }
+   
+  ]
+}
